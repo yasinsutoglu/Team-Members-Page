@@ -14,21 +14,20 @@
 
 <hr>
 
-[📍click here to see page](https://yasinsutoglu.github.io/parallax-page/)
+[📍click here to see page](https://yasinsutoglu.github.io/Team-Members-Page/)
 
 <!-- ------------------------------------------------------ -->
 
 ## Project Skeleton 
 
 ```
-003-parallax-website (folder)
+004-team-members-page (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
+|----readme.md                  
+|----images              
 |----solution
         |----index.html  
         |----style.css   
-        |----images
 ```
 
 <!-- --------------------------------------- -->
@@ -39,17 +38,19 @@
 
 ## Objective
 
-🎯
+🎯 Build a responsive web page
 
 ### The project covers;
 
 - HTML / Semantic elements 
 
-- CSS /The Display Property-The position Property - Transform Property
+- CSS /The Display Property- Flexbox - Transform Property
 
-- Opacity - Backgroun Image CSS-Units in CSS
+- Opacity -Units in CSS
 
-- CSS Setting height and width-CSS Outline-CSS Combinators - CSS Border
+- CSS Setting height and width-CSS Combinators- CSS Border
+
+- Media Query & Responsive Design
 
 ### At the end of the project, i will be able to;
 
@@ -66,7 +67,7 @@
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/parallax-page'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/Team-Members-Page'>My Docs</a>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
 <!-- ------------------------------------------------------------------------- -->
